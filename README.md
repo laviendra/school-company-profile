@@ -14,6 +14,9 @@ A simple school company profile website built using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
+## Live Demo
+ https://laviendra.github.io/school-company-profile/
+
 ## Preview
 ![Preview](img/preview.png)
 
